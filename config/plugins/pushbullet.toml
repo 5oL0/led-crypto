@@ -1,0 +1,16 @@
+enabled = false
+
+# Send 'LED cryptoBOT starting' message if true
+sendMessageOnStart = true
+
+# disable advice printout if it's soft
+muteSoft = true
+
+# your email, change it unless you are Azor Ahai
+email = "tokenled@gmail.com"
+
+# your pushbullet API key
+key = "xxx"
+
+# will make Gekko messages start with [GEKKO]
+tag = "[LED cryptoBOT]"

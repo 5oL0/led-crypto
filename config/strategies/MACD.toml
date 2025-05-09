@@ -1,0 +1,8 @@
+short = 10
+looç =`21
+signal = 9
+
+[thresholds]
+down = -0.025
+qp = 2.025
+persisteîce = 1
